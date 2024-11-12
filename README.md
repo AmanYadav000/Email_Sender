@@ -91,6 +91,9 @@ The system supports the following placeholders in email templates:
 - `{Location}`: Replaced with the recipient's location
 - `{Products}`: Replaced with the recipient's products
 
+## Overview
+![image](./Email-sender.png)
+
 ## Security Notes
 
 - Use app-specific passwords for Gmail
